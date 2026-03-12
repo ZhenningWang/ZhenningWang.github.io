@@ -108,31 +108,3 @@ section .main-body{
         margin: 0;
     }
 }
-
-.main-body img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-    border-radius: 10px;
-    margin: 12px auto;
-}
-
-.main-body {
-    text-align: left;
-}
-
-.main-body p,
-.main-body li,
-.main-body ul,
-.main-body ol {
-    text-align: left;
-}
-
-.main-body figure {
-    text-align: center;
-}
-
-.caption {
-    text-align: center;
-    font-style: italic;
-}

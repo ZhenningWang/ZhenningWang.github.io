@@ -1,4 +1,4 @@
-\### Tianwen National Forum for Outstanding Undergraduate Students in Physics and Astronomy 2026
+\#### Tianwen National Forum for Outstanding Undergraduate Students in Physics and Astronomy 2026
 
 
 
@@ -14,5 +14,5 @@ Presented an <strong>oral report</strong> at Tsung-Dao Lee Institute.
 
 
 
-\*Oral presentation, Shanghai, China, 2026.\*
+<strong>Oral presentation, Shanghai, China, 2026.</strong>
 
