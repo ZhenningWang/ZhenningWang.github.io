@@ -6,13 +6,11 @@ Presented an <strong>oral report</strong> at Tsung-Dao Lee Institute.
 
 
 
-<p align="center">
+<div class="figure-block">
 
 &#x20; <img src="static/assets/img/conf1.jpg" alt="Conference Presentation" width="500">
 
-</p>
+&#x20; <div class="caption">Oral presentation, Shanghai, China, 2026.</div>
 
-
-
-<strong>Oral presentation, Shanghai, China, 2026.</strong>
+</div>
 
