@@ -109,4 +109,14 @@ section .main-body{
     }
 }
 
+.main-body img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 12px 0;
+}
 
+.main-body figure,
+.main-body p {
+    text-align: center;
+}
