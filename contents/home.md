@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ZhenningWang](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/ZhenningWang)
 
 He is currently a junor student at Sichuan University.
 
@@ -9,9 +9,7 @@ He is currently a junor student at Sichuan University.
 Email: wangzhenning[at]stu.scu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.S. in Physics (Top-notch Student Training Program 2.0), Sichuan University, 2023—2027 (Expected).
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+Experimental condensed matter physics; Quantum device; Semiconductor physics

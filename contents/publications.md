@@ -1,2 +1,1 @@
-#### Published
 - <strong>Z. Wang</strong>, Y. Zhang, F. Gao, X. Dou, B. Gan*, and K. Tang (2025). Electronic topological transition in zinc under shock compression revealed by electrical resistivity measurements. <strong>Physical Review B</strong>. [[Paper]](https://doi.org/10.1103/s3h3-6198)
