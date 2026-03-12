@@ -1,8 +1,12 @@
-\#### Tianwen National Forum for Outstanding Undergraduate Students in Physics and Astronomy 2026
+<h4>Tianwen National Forum for Outstanding Undergraduate Students in Physics and Astronomy 2026</h4>
 
 
 
-Presented an <strong>oral report</strong> at Tsung-Dao Lee Institute.
+<p><strong>Topic:</strong> <em>Electrical resistivity measurements of transition metals under extreme conditions</em></p>
+
+
+
+<p>Presented an <strong>oral report</strong> at Tsung-Dao Lee Institute.</p>
 
 
 
@@ -10,7 +14,7 @@ Presented an <strong>oral report</strong> at Tsung-Dao Lee Institute.
 
 &#x20; <img src="static/assets/img/conf1.jpg" alt="Conference Presentation" width="500">
 
-&#x20; <div class="caption">Oral presentation, Shanghai, China, 2026.</div>
+&#x20; <div class="caption"><strong>Oral presentation, Shanghai, China, 2026.</strong></div>
 
 </div>
 
