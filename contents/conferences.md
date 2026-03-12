@@ -6,7 +6,7 @@
 
 
 
-<p>Presented an <strong>oral report</strong> at Tsung-Dao Lee Institute, Shanghai Jiao Tong Univerisity, Shanghai, China, 2026.</p>
+<p>Presented an <strong>oral report</strong> at Tsung-Dao Lee Institute, Shanghai Jiao Tong University, Shanghai, China, 2026.</p>
 
 
 
