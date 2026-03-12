@@ -130,8 +130,8 @@ section .main-body{
 }
 
 .research-image {
-    flex: 0 0 45%;
-    max-width: 420px;
+    flex: 0 0 55%;
+    max-width: 450px;
 }
 
 .research-image img {

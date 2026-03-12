@@ -2,7 +2,7 @@
 
 &#x20; <div class="research-image">
 
-&#x20;   <img src="static/assets/img/research/project1.png" alt="Project 1">
+&#x20;   <img src="static/assets/img/project1.png" alt="Project 1">
 
 &#x20; </div>
 
