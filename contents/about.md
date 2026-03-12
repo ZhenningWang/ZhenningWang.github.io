@@ -15,4 +15,4 @@ B.S. in Physics, Sichuan University, 2023–2027 (expected)
 
 <h4>Research Interests</h4>
 
-Experimental condensed matter physics; Quantum devices; Semiconductor physics
+Experimental condensed matter physics; Quantum devices; Semiconductor physics; Quantum Materials; Electronic Transport
