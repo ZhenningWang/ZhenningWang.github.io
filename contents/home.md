@@ -1,6 +1,6 @@
 
 
-[![ZhenningWang](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/ZhenningWang)
+[![ZhenningWang](https://img.shields.io/badge/ZhenningWang-github-blue?logo=github)](https://github.com/ZhenningWang)
 
 He is currently a junor student at Sichuan University.
 
