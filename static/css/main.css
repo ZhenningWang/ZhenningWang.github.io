@@ -108,3 +108,16 @@ section .main-body{
         margin: 0;
     }
 }
+
+.figure-row {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.figure-row img {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}

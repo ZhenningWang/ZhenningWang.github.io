@@ -12,7 +12,13 @@
 
 <div class="figure-block">
 
-&#x20; <img src="static/assets/img/conf1.jpg" alt="Conference Presentation" width="500">
+&#x20; <div class="figure-row">
+
+&#x20;   <img src="static/assets/img/conf1.jpg" alt="Conference Presentation 1" width="480">
+
+&#x20;   <img src="static/assets/img/conf2.jpg" alt="Conference Presentation 2" width="480">
+
+&#x20; </div>
 
 </div>
 
