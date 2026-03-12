@@ -121,3 +121,48 @@ section .main-body{
     max-width: 100%;
     height: auto;
 }
+
+.research-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    margin: 40px 0;
+}
+
+.research-image {
+    flex: 0 0 280px;
+}
+
+.research-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+}
+
+.research-text {
+    flex: 1;
+}
+
+.research-text h4 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    color: var(--h-title-color);
+    font-size: 1.4rem;
+}
+
+.research-text p {
+    margin-bottom: 12px;
+    text-align: left !important;
+}
+
+@media screen and (max-width: 768px) {
+    .research-item {
+        flex-direction: column;
+    }
+
+    .research-image {
+        flex: none;
+        width: 100%;
+    }
+}
