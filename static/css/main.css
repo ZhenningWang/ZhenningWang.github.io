@@ -17,7 +17,7 @@
 .top-section {
     position: relative;
     min-height: 22rem;
-    height: clamp(18rem, 26vw, 24rem);
+    height: clamp(18rem, 22vw, 20rem);
     background-image: url("../assets/img/bg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
@@ -192,7 +192,7 @@ section {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    gap: 60px;
+    gap: 80px;
 }
 
 .about-text {
