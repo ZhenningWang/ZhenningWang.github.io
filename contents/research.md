@@ -51,9 +51,7 @@ These elastic measurements provide insight into the evolution of lattice propert
 
 <h4 class="research-area-title">Angular Selectivity and Beam Filtering in Volume Bragg Gratings</h4>
 <p>
-Understanding how laser beam quality can be controlled and improved is an important problem in high-power laser systems. Volume Bragg gratings (VBGs) exhibit strong angular selectivity, allowing them to act as spatial filters that suppress high-angle noise components and improve beam uniformity.
-
-This work is conducted at the College of Physics, Sichuan University, under the supervision of Dr. Fuhua Gao. A numerical simulation framework based on Kogelnik coupled-wave theory and Fourier optics is developed to investigate the spatial filtering behavior of transmission-type VBGs and the influence of structural parameters on angular selectivity and filtering performance.
+Beam quality control is an important challenge in high-power laser systems, where spatial noise and high-angle components can degrade beam performance and stability. This work, conducted at the College of Physics, Sichuan University under the supervision of Dr. Fuhua Gao, develops a Python-based numerical simulation framework to study the angular filtering properties of transmission-type volume Bragg gratings (VBGs). The simulations combine Kogelnik coupled-wave theory with Fourier optics to analyze how grating parameters influence angular selectivity and beam-cleanup performance.
 </p>
 
 <div class="research-item">
@@ -63,10 +61,11 @@ This work is conducted at the College of Physics, Sichuan University, under the 
 </div>
 
 <div class="research-text">
+<h4 class="research-project-title">Numerical Modeling of Angular Filtering</h4>
 
-VBGs are angular-selective optical elements widely used in high-power laser systems for spatial filtering and beam cleanup. Because diffraction efficiency is highly sensitive to deviations from the Bragg angle, VBGs can selectively transmit low-divergence components of a beam while suppressing high-angle spatial noise, thereby improving beam quality and stability in laser systems.
+Transmission type VBGs exhibit strong angular selectivity near the Bragg condition and can function as spatial filters in laser systems. They preferentially transmit the low divergence core of a beam while attenuating high angle spatial components associated with noise and beam distortion.
 
-In this work, a numerical simulation framework based on Kogelnik coupled-wave theory and Fourier optics was developed to study the spatial filtering behavior of transmission-type VBGs. The grating’s angular response is modeled as a frequency-domain transfer function applied to the angular spectrum of a noisy beam, allowing the filtering process to be analyzed quantitatively. Parameter studies show that increasing grating thickness narrows the angular bandwidth and enhances suppression of high-spatial-frequency noise, providing guidance for VBG parameter selection in laser spatial filtering applications.
+In the simulations, the grating response is represented as an angular transfer function in the spatial frequency domain and applied to the spectrum of a noisy beam. This framework allows systematic investigation of how structural parameters, particularly grating thickness, influence angular bandwidth and the effectiveness of spatial noise suppression.
 
 </div>
 

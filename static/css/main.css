@@ -16,8 +16,8 @@
 
 .top-section {
     position: relative;
-    min-height: 18rem;
-    height: clamp(18rem, 20vw, 20rem);
+    min-height: 16rem;
+    height: clamp(16rem, 20vw, 18rem);
     background-image: url("../assets/img/bg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
