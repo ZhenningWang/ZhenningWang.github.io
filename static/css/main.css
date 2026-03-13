@@ -130,8 +130,8 @@ section .main-body{
 }
 
 .research-image {
-    flex: 0 0 620px;
-    max-width: 620px;
+    flex: 0 0 600px;
+    max-width: 600px;
 }
 
 .research-image img {
@@ -168,13 +168,13 @@ section {
 
 
 #research .research-text {
-    font-size: 1.1rem;
+    font-size: 1.15rem;
     line-height: 1.5;
 }
 
 #research .research-area-title {
-    color: #8B6B2E !important;
-    font-size: 2rem;
+    color: #8B6B2E  !important;
+    font-size: 2.8rem;
     line-height: 4;
     font-weight: 600;
     margin-top: 30px;
@@ -182,7 +182,7 @@ section {
 }
 
 #research .research-project-title {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     line-height: 4;
     font-weight: 600;
     margin-top: 20px;
