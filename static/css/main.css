@@ -172,12 +172,17 @@ section {
     line-height: 1.5;
 }
 
+#research .research-intro .research-image {
+    visibility: hidden;
+}
+
+
 #research .research-area-title {
-    color: #8B6B2E;
-    font-size: 2.3rem;
+    color: #8B6B2E !important;
+    font-size: 2.7rem;
     line-height: 4;
     font-weight: 600;
-    margin-top: 30px;
+    margin-top: 50px;
     margin-bottom: 14px;
 }
 
@@ -186,6 +191,6 @@ section {
     font-size: 2.1rem;
     line-height: 4;
     font-weight: 600;
-    margin-top: 18px;
+    margin-top: 30px;
     margin-bottom: 12px;
 }
