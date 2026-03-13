@@ -172,25 +172,19 @@ section {
     line-height: 1.5;
 }
 
-#research .research-intro .research-image {
-    visibility: hidden;
-}
-
-
 #research .research-area-title {
     color: #8B6B2E !important;
-    font-size: 2.7rem;
+    font-size: 2rem;
     line-height: 4;
     font-weight: 600;
-    margin-top: 50px;
+    margin-top: 30px;
     margin-bottom: 14px;
 }
 
 #research .research-project-title {
-    color: #222222;
-    font-size: 2.1rem;
+    font-size: 1.6rem;
     line-height: 4;
     font-weight: 600;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 12px;
 }
