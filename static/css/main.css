@@ -130,8 +130,8 @@ section .main-body{
 }
 
 .research-image {
-    flex: 0 0 480px;
-    max-width: 480px;
+    flex: 0 0 620px;
+    max-width: 620px;
 }
 
 .research-image img {
@@ -158,11 +158,11 @@ section .main-body{
 }
 
 .container {
-    max-width: 1250px;
+    max-width: 1400px;
 }
 
 
 #research .research-text {
-    font-size: 1.05rem;
-    line-height: 1.12;
+    font-size: 1.1rem;
+    line-height: 1.5;
 }
