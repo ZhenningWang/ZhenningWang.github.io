@@ -125,13 +125,13 @@ section .main-body{
 .research-item {
     display: flex;
     align-items: flex-start;
-    gap: 15px;
+    gap: 16px;
     margin: 40px 0;
 }
 
 .research-image {
-    flex: 0 0 400px;
-    max-width: 400px;
+    flex: 0 0 480px;
+    max-width: 480px;
 }
 
 .research-image img {
@@ -155,4 +155,8 @@ section .main-body{
         flex: none;
         max-width: 100%;
     }
+}
+
+.container {
+    max-width: 1100px;
 }
