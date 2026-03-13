@@ -1,4 +1,4 @@
-<h4 class="research-area">Experimental Condensed Matter Physics at High Pressure</h4>
+<h4 class="research-area-title">Experimental Condensed Matter Physics at High Pressure</h4>
 
 <p>
 Understanding the behavior of materials under extreme conditions is a central problem in condensed matter physics. My research focuses on experimental investigations of metals subjected to high pressure and dynamic compression, where electronic structure and lattice properties may undergo significant changes. By combining transport measurements and elastic diagnostics, these studies aim to probe electronic and structural transitions in condensed matter systems.
@@ -13,7 +13,7 @@ Understanding the behavior of materials under extreme conditions is a central pr
 </div>
 
 <div class="research-text">
-<h4 class="research-project">Electronic Transport under Dynamic Compression</h4>
+<h4 class="research-project-title">Electronic Transport under Dynamic Compression</h4>
 
 Electronic transport provides a sensitive probe of changes in the electronic structure of metals. In this project, I investigate how electrical resistivity evolves under extreme pressure–temperature conditions, where electronic topological transitions may alter the Fermi surface without structural symmetry breaking.
 
@@ -34,7 +34,7 @@ The results demonstrate that dynamic resistivity measurements provide a powerful
 </div>
 
 <div class="research-text">
-<h4 class="research-project">Elastic Properties under Shock Compression</h4>
+<h4 class="research-project-title">Elastic Properties under Shock Compression</h4>
 
 Elastic properties provide direct insight into lattice stability and structural evolution under compression. In this project, I study how sound velocity and elastic moduli evolve in metals subjected to dynamic high-pressure conditions.
 
@@ -47,7 +47,7 @@ These studies contribute to understanding how lattice and electronic degrees of 
 </div>
 
 
-<h4 class="research-area">Computational Modeling of Bragg Gratings</h4>
+<h4 class="research-area-title">Computational Modeling of Bragg Gratings</h4>
 
 <p>
 Computational modeling provides a complementary approach for understanding optical and photonic structures. My work in this area focuses on numerical simulations of Bragg gratings and their optical response.
