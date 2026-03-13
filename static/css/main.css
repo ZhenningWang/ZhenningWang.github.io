@@ -125,13 +125,13 @@ section .main-body{
 .research-item {
     display: flex;
     align-items: flex-start;
-    gap: 30px;
+    gap: 15px;
     margin: 40px 0;
 }
 
 .research-image {
-    flex: 0 0 55%;
-    max-width: 450px;
+    flex: 0 0 400px;
+    max-width: 400px;
 }
 
 .research-image img {
@@ -143,4 +143,20 @@ section .main-body{
 
 .research-text {
     flex: 1;
+}
+
+@media screen and (max-width: 768px) {
+    .research-item {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .research-image {
+        flex: none;
+        max-width: 100%;
+    }
+}
+
+.container {
+    max-width: 1050px;
 }
