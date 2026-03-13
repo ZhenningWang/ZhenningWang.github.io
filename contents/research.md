@@ -3,7 +3,7 @@
 <p>
 Understanding how materials respond to extreme conditions is a central problem in condensed matter physics. Under high pressure and dynamic compression, metals may undergo both structural phase transitions and electronic transitions, which can significantly modify their lattice stability, electronic structure, and transport properties.
 
-These studies are carried out using a light-gas gun platform, which generates controlled shock waves and enables in-situ measurements of material properties under extreme pressure–temperature conditions. The experiments are conducted at the Institute of Atomic and Molecular Physics, Sichuan University, under the supervision of Dr. Bo Gan. Within this experimental framework, electrical transport measurements and elastic diagnostics are combined to investigate pressure-induced electronic and lattice responses in condensed matter systems.
+These studies are carried out using a light-gas gun platform, which generates controlled shock waves and enables in-situ measurements of material properties under extreme pressure–temperature conditions. The experiments are conducted at Institute of Atomic and Molecular Physics, Sichuan University, under the supervision of Dr. Bo Gan. Within this experimental framework, electrical transport measurements and elastic diagnostics are combined to investigate pressure-induced electronic and lattice responses in condensed matter systems.
 </p>
 
 
