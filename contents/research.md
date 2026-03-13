@@ -48,11 +48,29 @@ These elastic measurements provide insight into the evolution of lattice propert
 </div>
 
 
-<h4 class="research-area-title">Computational Modeling of Bragg Gratings</h4>
 
+<h4 class="research-area-title">Angular Selectivity and Beam Filtering in Volume Bragg Gratings</h4>
 <p>
-Computational modeling provides a complementary approach for understanding optical and photonic structures. My work in this area focuses on numerical simulations of Bragg gratings and their optical response.
+Understanding how laser beam quality can be controlled and improved is an important problem in high-power laser systems. Volume Bragg gratings (VBGs) exhibit strong angular selectivity, allowing them to act as spatial filters that suppress high-angle noise components and improve beam uniformity.
 
-By solving electromagnetic wave propagation in periodic structures, these simulations help analyze reflection 
-spectra, mode coupling, and the influence of structural parameters on device performance.
+This work is conducted at the College of Physics, Sichuan University, under the supervision of Dr. Fuhua Gao. A numerical simulation framework based on Kogelnik coupled-wave theory and Fourier optics is developed to investigate the spatial filtering behavior of transmission-type VBGs and the influence of structural parameters on angular selectivity and filtering performance.
 </p>
+
+<div class="research-item">
+
+<div class="research-image">
+<img src="static/assets/img/r3.png" alt="Bragg Gratings">
+</div>
+
+<div class="research-text">
+
+VBGs are angular-selective optical elements widely used in high-power laser systems for spatial filtering and beam cleanup. Because diffraction efficiency is highly sensitive to deviations from the Bragg angle, VBGs can selectively transmit low-divergence components of a beam while suppressing high-angle spatial noise, thereby improving beam quality and stability in laser systems.
+
+In this work, a numerical simulation framework based on Kogelnik coupled-wave theory and Fourier optics was developed to study the spatial filtering behavior of transmission-type VBGs. The grating’s angular response is modeled as a frequency-domain transfer function applied to the angular spectrum of a noisy beam, allowing the filtering process to be analyzed quantitatively. Parameter studies show that increasing grating thickness narrows the angular bandwidth and enhances suppression of high-spatial-frequency noise, providing guidance for VBG parameter selection in laser spatial filtering applications.
+
+</div>
+
+</div>
+
+
+
