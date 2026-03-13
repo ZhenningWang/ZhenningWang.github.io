@@ -17,7 +17,7 @@
 .top-section {
     position: relative;
     min-height: 22rem;
-    height: clamp(22rem, 32vw, 30rem);
+    height: clamp(18rem, 26vw, 24rem);
     background-image: url("../assets/img/bg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
@@ -32,6 +32,13 @@
 .top-section .top-section-content {
     position: relative;
     z-index: 1;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#top-section-bg-text {
+    margin: 0;
 }
 
 .top-section:before {
