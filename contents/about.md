@@ -8,14 +8,14 @@ Right now, I'm working on experimental research related to electrical transport 
 
 Outside the lab, I love staying curious about the wider world. I'm into technology &#128187;, traveling for beautiful views, local culture, and great food &#127757; &#127836;, and I also enjoy playing badminton &#127992;
 
-<h4>Contact</h4>
+<h4 style="font-weight: 600;">Contact</h4>
 
 Email: wangzhenning[at]stu.scu.edu.cn
 
-<h4>Education</h4>
+<h4 style="font-weight: 600;">Education</h4>
 
 B.S. in Physics, Sichuan University, 2023–2027 (expected)
 
-<h4>Research Interests</h4>
+<h4 style="font-weight: 600;">Research Interests</h4>
 
 Experimental condensed matter physics; Quantum devices; Semiconductor physics; Quantum Materials; Electronic Transport
