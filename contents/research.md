@@ -1,7 +1,9 @@
-<h4 class="research-area-title">Experimental Condensed Matter Physics at High Pressure</h4>
+<h4 class="research-area-title">Electronic and Lattice Properties under Dynamic Compression</h4>
 
 <p>
-Understanding the behavior of materials under extreme conditions is a central problem in condensed matter physics. My research focuses on experimental investigations of metals subjected to high pressure and dynamic compression, where electronic structure and lattice properties may undergo significant changes. By combining transport measurements and elastic diagnostics, these studies aim to probe electronic and structural transitions in condensed matter systems.
+Understanding how materials respond to extreme conditions is a central problem in condensed matter physics. Under high pressure and dynamic compression, metals may undergo both structural phase transitions and electronic transitions, which can significantly modify their lattice stability, electronic structure, and transport properties.
+
+These studies are carried out using a light-gas gun platform, which generates controlled shock waves and enables in-situ measurements of material properties under extreme pressure–temperature conditions. The experiments are conducted at the Institute of Atomic and Molecular Physics, Sichuan University, under the supervision of Dr. Bo Gan. Within this experimental framework, electrical transport measurements and elastic diagnostics are combined to investigate pressure-induced electronic and lattice responses in condensed matter systems.
 </p>
 
 
@@ -13,13 +15,13 @@ Understanding the behavior of materials under extreme conditions is a central pr
 </div>
 
 <div class="research-text">
-<h4 class="research-project-title">Electronic Transport under Dynamic Compression</h4>
+<h4 class="research-project-title">Electrical Transport and Electronic Transitions</h4>
 
-Electronic transport provides a sensitive probe of changes in the electronic structure of metals. In this project, I investigate how electrical resistivity evolves under extreme pressure–temperature conditions, where electronic topological transitions may alter the Fermi surface without structural symmetry breaking.
+Electrical transport is a direct probe of the electronic structure of metals, as conduction electrons near the Fermi surface dominate transport behavior. In this work, electrical resistivity under dynamic compression is investigated to explore pressure-induced changes in electronic states.
 
-Using a light-gas gun platform, I performed shock-compression experiments with in-situ four-probe resistivity measurements combined with sound-velocity diagnostics. While sound velocity evolves smoothly up to ~11 GPa, the electrical resistivity shows a clear slope change near 14 GPa, indicating a pressure-induced Lifshitz-type transition.
+An improved in-situ four-probe resistivity measurement technique was developed for shock-compression experiments. The method enables stable current injection and reliable voltage detection during ultrafast loading, allowing electrical transport to be monitored directly in real time.
 
-The results demonstrate that dynamic resistivity measurements provide a powerful probe of electronic transitions under extreme conditions. This work was published in <em>Physical Review B</em>.
+Using this approach, a clear slope change in resistivity near ~14 GPa is observed, consistent with a pressure-induced Lifshitz-type electronic topological transition (ETT). Because ETTs occur without symmetry breaking or structural phase transformations, they are often difficult to detect using conventional probes such as x-ray diffraction or spectroscopy. The ability to resolve this anomaly highlights the high sensitivity and precision of dynamic transport measurements in probing subtle electronic transitions in condensed matter systems.
 
 </div>
 
@@ -34,14 +36,13 @@ The results demonstrate that dynamic resistivity measurements provide a powerful
 </div>
 
 <div class="research-text">
-<h4 class="research-project-title">Elastic Properties under Shock Compression</h4>
+<h4 class="research-project-title">Elastic Response and Lattice Dynamics</h4>
 
-Elastic properties provide direct insight into lattice stability and structural evolution under compression. In this project, I study how sound velocity and elastic moduli evolve in metals subjected to dynamic high-pressure conditions.
+Elastic properties provide important information about lattice stability and phonon behavior in compressed solids. To probe lattice dynamics under dynamic compression, longitudinal sound velocity measurements were performed in shock experiments.
 
-By combining shock-compression experiments with velocity diagnostics, the measurements reveal the pressure dependence of elastic parameters and possible anomalies associated with electronic or structural transitions.
+The measurements employ a reverse-impact configuration combined with photon Doppler velocimetry (PDV). A 1550 nm laser delivered through an optical fiber is used to measure particle velocity at the sample interface with high temporal resolution. Analysis of the shock and release wave propagation allows the longitudinal sound velocity of the compressed material to be determined.
 
-These studies contribute to understanding how lattice and electronic degrees of freedom interact under extreme environments.
-
+These elastic measurements provide insight into the evolution of lattice properties under extreme conditions. When combined with transport data, they help distinguish electronic transitions from lattice-driven effects, providing a more complete picture of the coupled electronic and lattice responses of condensed matter systems.
 </div>
 
 </div>
