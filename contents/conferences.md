@@ -2,11 +2,11 @@
 
 
 
-<p><strong style="font-weight: 600;">Topic:</strong> <em>Electrical resistivity measurements of transition metals under extreme conditions</em></p>
+<p><strong style="font-weight: 800;">Topic:</strong> <em>Electrical resistivity measurements of transition metals under extreme conditions</em></p>
 
 
 
-<p>Presented an <strong style="font-weight: 600;">oral report</strong> at Tsung-Dao Lee Institute, Shanghai Jiao Tong University, Shanghai, China, 2026.</p>
+<p>Presented an <strong style="font-weight: 800;">oral report</strong> at Tsung-Dao Lee Institute, Shanghai Jiao Tong University, Shanghai, China, 2026.</p>
 
 
 
