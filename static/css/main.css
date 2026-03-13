@@ -161,6 +161,11 @@ section .main-body{
     max-width: 1400px;
 }
 
+section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
 
 #research .research-text {
     font-size: 1.1rem;
