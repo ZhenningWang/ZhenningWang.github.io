@@ -2,7 +2,7 @@
 
 &#x20; <div class="research-image">
 
-&#x20;   <img src="static/assets/img/project1.pdf" alt="Project 1">
+&#x20;   <img src="static/assets/img/r1.png" alt="Project 1">
 
 &#x20; </div>
 
@@ -48,7 +48,7 @@
 
 &#x20; <div class="research-image">
 
-&#x20;   <img src="static/assets/img/project2.pdf" alt="Project 2">
+&#x20;   <img src="static/assets/img/r2.png" alt="Project 2">
 
 &#x20; </div>
 

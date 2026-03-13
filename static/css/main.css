@@ -156,7 +156,3 @@ section .main-body{
         max-width: 100%;
     }
 }
-
-.container {
-    max-width: 1050px;
-}
