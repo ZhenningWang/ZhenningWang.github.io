@@ -21,7 +21,7 @@ Electrical transport is a direct probe of the electronic structure of metals, as
 
 An improved in-situ four-probe resistivity measurement technique was developed for shock-compression experiments. The method enables stable current injection and reliable voltage detection during ultrafast loading, allowing electrical transport to be monitored directly in real time.
 
-Using this approach, a clear slope change in resistivity near ~14 GPa is observed, consistent with a pressure-induced Lifshitz-type electronic topological transition (ETT). Because ETTs occur without symmetry breaking or structural phase transformations, they are often difficult to detect using conventional probes such as x-ray diffraction or spectroscopy. The ability to resolve this anomaly highlights the high sensitivity and precision of dynamic transport measurements in probing subtle electronic transitions in condensed matter systems.
+Using this approach, a clear slope change in resistivity near ~14 GPa is observed, consistent with a pressure-induced Lifshitz-type electronic topological transition (ETT). Because ETTs occur without symmetry breaking or structural phase transformations, they are often difficult to detect using conventional probes such as X-ray diffraction or spectroscopy. The ability to resolve this anomaly highlights the high sensitivity and precision of dynamic transport measurements in probing subtle electronic transitions in condensed matter systems.
 
 </div>
 

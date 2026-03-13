@@ -16,10 +16,13 @@
 
 .top-section {
     position: relative;
-    padding: 10rem 0;
-    background-position: center;
+    min-height: 22rem;
+    height: clamp(22rem, 32vw, 30rem);
+    background-image: url("../assets/img/bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
     background-size: cover;
-    height: 25rem;
+    overflow: hidden;
 }
 
 .top-section h2 {
@@ -105,7 +108,7 @@ section .main-body{
 .research-item {
     display: flex;
     align-items: flex-start;
-    gap: 25px;
+    gap: 35px;
     margin: 40px 0;
 }
 
@@ -143,7 +146,7 @@ section .main-body{
     }
 
     .about-photo img {
-        width: 180px;
+        width: 200px;
     }
 
 }
@@ -182,7 +185,7 @@ section {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    gap: 40px;
+    gap: 60px;
 }
 
 .about-text {
