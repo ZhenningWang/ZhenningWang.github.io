@@ -5,7 +5,6 @@ Understanding the behavior of materials under extreme conditions is a central pr
 </p>
 
 
-<h4 class="research-project">Electronic Transport under Dynamic Compression</h4>
 
 <div class="research-item">
 
@@ -14,6 +13,7 @@ Understanding the behavior of materials under extreme conditions is a central pr
 </div>
 
 <div class="research-text">
+<h4 class="research-project">Electronic Transport under Dynamic Compression</h4>
 
 Electronic transport provides a sensitive probe of changes in the electronic structure of metals. In this project, I investigate how electrical resistivity evolves under extreme pressure–temperature conditions, where electronic topological transitions may alter the Fermi surface without structural symmetry breaking.
 
@@ -26,7 +26,6 @@ The results demonstrate that dynamic resistivity measurements provide a powerful
 </div>
 
 
-<h4 class="research-project">Elastic Properties under Shock Compression</h4>
 
 <div class="research-item">
 
@@ -35,6 +34,7 @@ The results demonstrate that dynamic resistivity measurements provide a powerful
 </div>
 
 <div class="research-text">
+<h4 class="research-project">Elastic Properties under Shock Compression</h4>
 
 Elastic properties provide direct insight into lattice stability and structural evolution under compression. In this project, I study how sound velocity and elastic moduli evolve in metals subjected to dynamic high-pressure conditions.
 
