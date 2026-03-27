@@ -3,7 +3,7 @@
 <p>
 Understanding how materials respond to extreme conditions is a central problem in condensed matter physics. Under high pressure and dynamic compression, metals may undergo both structural phase transitions and electronic transitions, which can significantly modify their lattice stability, electronic structure, and transport properties.
 
-These studies are carried out using a light-gas gun platform, which generates controlled shock waves and enables in-situ measurements of material properties under extreme pressure–temperature conditions. The experiments are conducted at Institute of Atomic and Molecular Physics, Sichuan University, under the supervision of Dr. Bo Gan. Within this experimental framework, electrical transport measurements and elastic diagnostics are combined to investigate pressure-induced electronic and lattice responses in condensed matter systems.
+These studies are carried out using a light-gas gun platform, which generates controlled shock waves and enables in-situ measurements of material properties under extreme pressure–temperature conditions. The experiments are conducted at the Institute of Atomic and Molecular Physics, Sichuan University, under the supervision of Prof. Bo Gan, in the laboratory of Prof. Youjun Zhang. Within this experimental framework, electrical transport measurements and elastic diagnostics are combined to investigate pressure-induced electronic and lattice responses in condensed matter systems.
 </p>
 
 
@@ -51,7 +51,7 @@ These elastic measurements provide insight into the evolution of lattice propert
 
 <h4 class="research-area-title">Angular Selectivity and Beam Filtering in Volume Bragg Gratings</h4>
 <p>
-Beam quality control is an important challenge in high-power laser systems, where spatial noise and high-angle components can degrade beam performance and stability. This work, conducted at the College of Physics, Sichuan University under the supervision of Dr. Fuhua Gao, develops a Python-based numerical simulation framework to study the angular filtering properties of transmission-type volume Bragg gratings (VBGs). The simulations combine Kogelnik coupled-wave theory with Fourier optics to analyze how grating parameters influence angular selectivity and beam-cleanup performance.
+Beam quality control is an important challenge in high-power laser systems, where spatial noise and high-angle components can degrade beam performance and stability. This work, conducted at the College of Physics, Sichuan University under the supervision of Prof. Fuhua Gao, develops a Python-based numerical simulation framework to study the angular filtering properties of transmission-type volume Bragg gratings (VBGs). The simulations combine Kogelnik coupled-wave theory with Fourier optics to analyze how grating parameters influence angular selectivity and beam-cleanup performance.
 </p>
 
 <div class="research-item">

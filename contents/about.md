@@ -14,7 +14,7 @@ Email: wangzhenning[at]stu.scu.edu.cn
 
 <h4 style="font-weight: 1000;">Education</h4>
 
-B.S. in Physics, Sichuan University, 2023–2027 (expected)
+B.S. in Physics, Sichuan University (Top-notch Talent Training Program), 2023–2027 (expected)
 
 <h4 style="font-weight: 1000;">Research Interests</h4>
 
