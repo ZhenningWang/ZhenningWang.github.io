@@ -47,6 +47,22 @@ These elastic measurements provide insight into the evolution of lattice propert
 
 </div>
 
+<div class="research-item">
+
+<div class="research-image">
+<img src="static/assets/img/r4.png" alt="XRD and SEM">
+</div>
+
+<div class="research-text">
+<h4 class="research-project-title">Structural and Microstructural Characterization</h4>
+
+Structural characterization provides an important complement to in-situ transport and elastic measurements by examining the recovered state of dynamically loaded materials. After shock experiments, recovered samples are prepared for ex-situ X-ray diffraction (XRD), scanning electron microscopy (SEM), and energy-dispersive spectroscopy (EDS) measurements. XRD is used to identify crystalline phases, SEM reveals surface morphology on the micrometer scale, and EDS mapping provides information on elemental distribution.
+
+In Fe–Ni alloy samples, the XRD pattern shows peaks corresponding to the bcc α-Fe(Ni) phase, while SEM and EDS results help assess the microstructural morphology and compositional uniformity of the recovered material. By comparing these characterization results with electrical transport and sound-velocity data, the study links macroscopic property changes under dynamic loading to the structural and microstructural state of the material.
+</div>
+
+</div>
+
 
 
 <h4 class="research-area-title">Angular Selectivity and Beam Filtering in Volume Bragg Gratings</h4>
